@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 Main Workstation [Microsoft Surface 7 Laptop (Snapdragon X Elite)](Microsoft Surface 7 Laptop (Snapdragon X Elite))
+- 👨‍💻 Main Workstation Microsoft Surface 7 Laptop (Snapdragon X Elite)
 
 - 📝 Links [CLICK](https://awshimself.github.io/links/)
 - 📫 How to reach me [Telegram](https://t.me/aaaeteq)
