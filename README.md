@@ -1,7 +1,7 @@
 <h1 align="center">I'm Sergey</h1>
 <h3 align="center">A passionate frontend/embedded developer</h3>
 
-- 🔭 I’m currently working on **PROFIT-Board**
+- 🔭 I’m currently working on **PROFIT-Board, FLASHX**
 
 - 🌱 I’m currently learning **Assembly**
 
